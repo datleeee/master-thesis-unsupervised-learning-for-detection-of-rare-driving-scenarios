@@ -4,7 +4,7 @@ This project explores unsupervised learning to identify rare driving scenarios u
 
 Part of this work has been accepted for publication at the **IEEE Intelligent Transportation Systems Conference (ITSC) 2025**, to be held in **Gold Coast, Australia**.
 
-## Repository Contents
+## 📁 Repository Contents
 
 - [`master_thesis.pdf`](./master_thesis.pdf)  
   Final version of the master thesis report detailing the research, methodology, experiments, and findings.
@@ -18,7 +18,7 @@ Part of this work has been accepted for publication at the **IEEE Intelligent Tr
 - [`thesis_experiment_simple.ipynb`](./thesis_experiment_simple.ipynb)
   A baseline experiment using **only one continuous signal** and **multiple categorical features**. This simplified notebook demonstrates the core concept of contextual anomaly detection in a minimal and interpretable setting.
 
-## References
+## 📚 References
 
 [1] H. Xu, G. Pang, Y. Wang, and Y. Wang,  
 "Deep Isolation Forest for Anomaly Detection,"  
